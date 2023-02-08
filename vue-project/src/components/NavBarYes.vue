@@ -10,7 +10,7 @@ defineProps({
 <template>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Star Wars Planets</a>
+      <a class="navbar-brand" href="#">STAR WARS</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -34,9 +34,8 @@ defineProps({
       </div>
     </div>
   </nav>
-  <div class="greetings">
-    <h1 class="blue">{{ msg }}</h1>
-    <h3 class="blue">Welcome to a page about star wars planets!</h3>
+  <div class="image-container">
+    <img src="/src/assets/images/starwarslogo.jpeg" />
   </div>
 </template>
 

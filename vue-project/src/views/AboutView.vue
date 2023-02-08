@@ -1,16 +1,13 @@
 <script setup>
 import NavBarYes from "../components/NavBarYes.vue";
-import CompThree from "../components/CompThree.vue";
+import AboutUs from "../components/AboutUs.vue";
 </script>
 <template>
   <main>
     <NavBarYes />
-    <CompThree />
+    <AboutUs />
     <RouterView />
   </main>
-  <div class="about">
-    <h1 class="blue">About Star Wars</h1>
-  </div>
 </template>
 
 <style>

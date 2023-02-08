@@ -7,6 +7,7 @@ import "./assets/main.css";
 
 const app = createApp(App);
 
+app.config.strict = true;
 app.use(router);
 app.use(bootstrap);
 app.mount("#app");

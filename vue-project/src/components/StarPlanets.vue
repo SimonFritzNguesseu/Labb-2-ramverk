@@ -1,5 +1,5 @@
 <template>
-  <h1>Yessir</h1>
+  <h1>Planet info search</h1>
 </template>
 
 <style scoped></style>

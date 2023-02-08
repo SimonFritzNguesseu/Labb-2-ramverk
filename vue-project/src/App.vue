@@ -8,7 +8,7 @@ import { RouterView } from "vue-router";
       <CompOne msg="Star wars!" />
     </div>
   </header>
-
+  <div class="background-img"></div>
   <RouterView />
 </template>
 
