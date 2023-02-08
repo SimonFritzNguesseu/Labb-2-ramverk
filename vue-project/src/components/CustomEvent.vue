@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button @click="emitCustomEvent">Emit Custom Event</button>
+    <button @click="emitCustomEvent">I LOVE STAR WARS</button>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
   methods: {
     emitCustomEvent() {
-      this.$emit("custom-event", { message: "Hello World!" });
+      this.$emit("custom-event", { message: "I LOVE STAR WARS!" });
     },
   },
 };
