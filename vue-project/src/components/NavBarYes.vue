@@ -33,3 +33,5 @@
 </template>
 
 <style scoped></style>
+
+<!-- Simple navbar from bootstrap above -->

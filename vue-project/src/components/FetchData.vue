@@ -41,6 +41,7 @@ export default {
 };
 </script>
 <template>
+  <h1>Planet Info Search</h1>
   <div>
     <input
       type="text"
@@ -78,3 +79,7 @@ export default {
   margin: 5px;
 }
 </style>
+
+<!-- Axios computed and some style for the fetched cards of data above
+about star wars planets and there differences in size, climate.. ,
+filter function aswell for a planet search feature using v-model -->

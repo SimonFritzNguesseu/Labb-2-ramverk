@@ -29,3 +29,7 @@ export default {
   },
 };
 </script>
+
+<!-- AboutView with method handler for the custom event console loging
+the data message, aswell as displaying the store value councount and
+the props to the console.-->

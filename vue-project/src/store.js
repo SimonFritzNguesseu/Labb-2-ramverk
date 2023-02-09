@@ -15,3 +15,4 @@ export default createStore({
   mutations,
   strict: true,
 });
+// store with two mutations increase and decrease bind to separate buttons

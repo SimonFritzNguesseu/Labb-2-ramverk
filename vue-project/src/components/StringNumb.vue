@@ -1,11 +1,11 @@
+<!-- defining props and a button to log them-->
 <template>
   <div>
     <p>Number: {{ number }}</p>
     <p>Message: {{ message }}</p>
-    <button @click="logProps">C.Log Props</button>
+    <button @click="logProps">Log Props</button>
   </div>
 </template>
-
 <script>
 export default {
   props: {
@@ -18,6 +18,7 @@ export default {
       required: true,
     },
   },
+  /* console.log of props*/
   methods: {
     logProps() {
       console.log("Number:", this.number);

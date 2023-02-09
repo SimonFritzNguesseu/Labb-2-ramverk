@@ -13,3 +13,5 @@ export default {
   },
 };
 </script>
+
+<!-- custom event handled on the aboutview page -->

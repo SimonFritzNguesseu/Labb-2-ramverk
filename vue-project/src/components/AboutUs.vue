@@ -10,3 +10,5 @@
     non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   </h3>
 </template>
+
+<!-- Just some lorem for the site might change this later -->

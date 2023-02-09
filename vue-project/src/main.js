@@ -11,3 +11,5 @@ app.config.strict = true;
 app.use(router);
 app.use(bootstrap);
 app.mount("#app");
+
+// imports app.use and mounting the app

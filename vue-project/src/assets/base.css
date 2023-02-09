@@ -87,10 +87,12 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60vh; /* adjust this value to control the height of the container */
+  height: 60vh;
 }
 
 .image-container img {
   max-width: 100%;
   height: auto;
 }
+
+/* some base css for the site */
