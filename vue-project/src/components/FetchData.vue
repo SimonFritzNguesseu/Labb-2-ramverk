@@ -75,5 +75,6 @@ export default {
   width: calc(50% - 20px);
   padding: 10px;
   box-sizing: border-box;
+  margin: 5px;
 }
 </style>
